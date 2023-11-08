@@ -1,0 +1,53 @@
+.card-holder {
+  display: block;
+  margin: 0 auto;
+}
+.today-time {
+  font-style: italic;
+}
+.temp-now {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 50px auto;
+  width: 35%;
+  font-size: calc(1.375rem + 1.5vw);
+  font-weight: 200px;
+}
+.weather-details {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 100px auto;
+  width: 35%;
+}
+.sun {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 50px auto;
+  width: 60%;
+  font-size: 80px;
+}
+.search-bar {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  border-width: 2px;
+  border-color: black;
+  padding-left: 5px;
+}
+.Tuesday {
+  position: absolute;
+  top: 10;
+  margin: 60px auto;
+  width: 0%;
+}
+.card-title {
+  text-align: center;
+  margin-bottom: 25px;
+}
+.card-text {
+  text-align: center;
+  font-size: 40px;
+}
